@@ -1,5 +1,5 @@
 ## Hey, I'm Ingebrigt 👋
-I live in Oslo, Norway. Here I work a as a fullstack developer. I enjoy coding, playing video games, most sports (especially skiing!) and being with friends and family.
+I live in Oslo, Norway. Here I work as a fullstack developer. I enjoy coding, playing video games, most sports (especially skiing!) and being with friends and family.
 
 ### Get In Touch
 <a href="https://www.linkedin.com/in/ingehol/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <a href="mailto:ingebrigt-holstad@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
