@@ -24,7 +24,7 @@
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=ingehol&repo=Brutus&cache_seconds=86400&theme=vue"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=ingehol" />
+<img align="center" height=150 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=ingehol" />
 </picture>
 <picture>
 <source 
@@ -35,7 +35,7 @@
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=ingehol&repo=Hiking-in-C&cache_seconds=86400&theme=vue"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="center" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=ingehol" />
+<img align="center" height=150 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=ingehol" />
 </picture>
  
   ---
@@ -49,7 +49,7 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ingehol&layout=compact&theme=vue"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingehol" />
+<img align="center" height=206 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingehol" />
 </picture>
 <picture>
 <source 
@@ -60,5 +60,5 @@
   srcset="https://github-readme-stats.vercel.app/api?username=ingehol&show_icons=true&count_private=true&theme=vue"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=ingehol" />
+<img align="center" height=206 width=400 src="https://github-readme-stats.vercel.app/api?username=ingehol" />
 </picture>
