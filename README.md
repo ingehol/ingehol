@@ -24,7 +24,7 @@
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=ingehol&repo=Brutus&cache_seconds=86400&theme=vue"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="center" height=140 width=350 src="https://github-readme-stats.vercel.app/api/pin/?username=ingehol" />
+<img align="center" height=150 width=350 src="https://github-readme-stats.vercel.app/api/pin/?username=ingehol" />
 </picture>
 <picture>
 <source 
