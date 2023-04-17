@@ -26,8 +26,7 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img align="top" height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=ingehol" />
-</picture>
-<picture>
+</picture> <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=ingehol&repo=Hiking-in-C&cache_seconds=86400&theme=github_dark_dimmed"
   media="(prefers-color-scheme: dark)"
@@ -51,8 +50,7 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img align="top" height=206 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingehol" />
-</picture>
-<picture>
+</picture> <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=ingehol&show_icons=true&count_private=true&theme=github_dark_dimmed"
   media="(prefers-color-scheme: dark)"
