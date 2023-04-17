@@ -50,7 +50,7 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ingehol&layout=compact&theme=vue"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="top" height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingehol" />
+<img align="top" height=197 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingehol" />
 </picture>
 <picture>
 <source 
@@ -61,5 +61,5 @@
   srcset="https://github-readme-stats.vercel.app/api?username=ingehol&show_icons=true&count_private=true&theme=vue"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="top" height=195 src="https://github-readme-stats.vercel.app/api?username=ingehol" />
+<img align="top" height=197 src="https://github-readme-stats.vercel.app/api?username=ingehol" />
 </picture>
