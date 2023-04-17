@@ -22,7 +22,7 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/pin/?username=ingehol&repo=Brutus&cache_seconds=86400&theme=vue"
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=ingehol&repo=Brutus&cache_seconds=86400&theme=swift"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img align="top" height=135 src="https://github-readme-stats.vercel.app/api/pin/?username=ingehol" />
@@ -33,7 +33,7 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/pin/?username=ingehol&repo=Hiking-in-C&cache_seconds=86400&theme=vue"
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=ingehol&repo=Hiking-in-C&cache_seconds=86400&theme=swift"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img align="top" height=135 src="https://github-readme-stats.vercel.app/api/pin/?username=ingehol" />
@@ -47,7 +47,7 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ingehol&layout=compact&theme=vue"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ingehol&layout=compact&theme=swift"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img align="top" height=199 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingehol" />
@@ -58,7 +58,7 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=ingehol&show_icons=true&count_private=true&theme=vue"
+  srcset="https://github-readme-stats.vercel.app/api?username=ingehol&show_icons=true&count_private=true&theme=swift"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img align="top" height=199 src="https://github-readme-stats.vercel.app/api?username=ingehol" />
