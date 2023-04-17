@@ -49,7 +49,7 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ingehol&layout=compact&theme=vue"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="center" height=206 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingehol" />
+<img align="center" height=206 width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingehol" />
 </picture>
 <picture>
 <source 
