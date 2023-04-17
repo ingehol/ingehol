@@ -13,6 +13,53 @@
   
 ### What I'm going to learn more about
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"> <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+
   ---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ingehol&show_icons=true&theme=dark)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=ingehol&repo=Brutus&cache_seconds=86400&theme=github_dark_dimmed"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=ingehol&repo=Brutus&cache_seconds=86400&theme=vue"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align="top" height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=ingehol" />
+</picture>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=ingehol&repo=Hiking-in-C&cache_seconds=86400&theme=github_dark_dimmed"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=ingehol&repo=Hiking-in-C&cache_seconds=86400&theme=vue"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align="top" height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=ingehol" />
+</picture>  
+ 
+  ---
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ingehol&layout=compact&theme=github_dark_dimmed"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ingehol&layout=compact&theme=vue"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align="top" height=206 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingehol" />
+</picture>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=ingehol&show_icons=true&count_private=true&theme=github_dark_dimmed"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=ingehol&show_icons=true&count_private=true&theme=vue"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align="top" height=206 src="https://github-readme-stats.vercel.app/api?username=ingehol" />
+</picture>
