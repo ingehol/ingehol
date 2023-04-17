@@ -35,7 +35,7 @@
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=ingehol&repo=Hiking-in-C&cache_seconds=86400&theme=vue"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="center" height=170 width=430 src="https://github-readme-stats.vercel.app/api/pin/?username=ingehol" />
+<img align="center" height=200 width=430 src="https://github-readme-stats.vercel.app/api/pin/?username=ingehol" />
 </picture>
  
   ---
