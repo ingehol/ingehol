@@ -1,5 +1,5 @@
 ### Hey, I'm Ingebrigt :frog:
-#### I live in Oslo, Norway. Here I work as a fullstack developer. I enjoy coding, playing video games, most sports (especially skiing!) and being with friends and family.
+#### I live in Haugesund, Norway. Here I work as a fullstack developer. I enjoy coding, playing video games, most sports (especially skiing!) and being with friends and family.
   ---
   
 ### Get In Touch
